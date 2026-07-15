@@ -282,7 +282,7 @@ This project is developed for educational purposes.
 
 ## 👨‍💻 Author
 
-**Abhishek Kallu**
+**Hariom Gupta**
 
 GitHub: https://github.com/coderxninja1661
 
